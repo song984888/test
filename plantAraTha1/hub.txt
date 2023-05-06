@@ -1,6 +1,6 @@
-hub pplantAraTha1
-shortLabel Plant paraTha1
-longLabel Plant paraTha1 Hub
+hub my_plantAraTha1
+shortLabel Plant my_araTha1
+longLabel Plant my_araTha1 Hub
 genomesFile genomes.txt
 email genome-www@soe.ucsc.edu
 descriptionUrl plants.html
